@@ -12,19 +12,26 @@ The study aims to discover how the following factors affect the prices of proper
 - Neighbourhood/Environment
 - Furnishing
 - Number of facilities (such as toilets, bedrooms and bathrooms)
+
 To achieve the aim above, the following objectives were set:
 **For factor 1 (Neighbourhood)**
 - Identify the distinct neighbourhoods in Lekki.
 - Determine the highest and lowest price of properties within these neighbourhoods.
 - Determine the average price of properties in each neighborhood.
 - Rank neighborhoods based on the average price of properties witihin them
+
 **For factor 2 (Furnishing)**
 - Get number of furnished and un-furnished properties
 - Determine the highest and lowest price of houses/properties within these categories.
 - Determine the average price of houses/properties in each category
+
 **For factor 3 (Number of Facilities)**
 - Graphically visualize how the change in number of facilities (e.g. toilets, bedrooms & bathrooms) affects prices of houses/properties in different neighborhoods
 - Draw conclusions
 
 ## Tools Used
 - Power BI Desktop [Get Here](https://powerbi.microsoft.com/en-us/downloads/)
+
+## Data Source
+The data used was gotten from Kaggle [Here](https://www.kaggle.com/datasets/eyimofeapinnick/house-sale-prices-of-cities-in-lagos-nigeria?select=lekki.csv) but it was stated in Kaggle that it was initially gotten from PropertPro Nigeria [Here](https://www.propertypro.ng/)
+
