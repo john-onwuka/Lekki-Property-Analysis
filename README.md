@@ -14,6 +14,7 @@ The study aims to discover how the following factors affect the prices of proper
 - Number of facilities (such as toilets, bedrooms and bathrooms)
 
 To achieve the aim above, the following objectives were set:
+
 **For factor 1 (Neighbourhood)**
 - Identify the distinct neighbourhoods in Lekki.
 - Determine the highest and lowest price of properties within these neighbourhoods.
@@ -33,5 +34,9 @@ To achieve the aim above, the following objectives were set:
 - Power BI Desktop [Get Here](https://powerbi.microsoft.com/en-us/downloads/)
 
 ## Data Source
-The data used was gotten from Kaggle [Here](https://www.kaggle.com/datasets/eyimofeapinnick/house-sale-prices-of-cities-in-lagos-nigeria?select=lekki.csv) but it was stated in Kaggle that it was initially gotten from PropertPro Nigeria [Here](https://www.propertypro.ng/)
+The data used was gotten from Kaggle [Here](https://www.kaggle.com/datasets/eyimofeapinnick/house-sale-prices-of-cities-in-lagos-nigeria?select=lekki.csv) but it was stated in Kaggle that the dataset was initially gotten from PropertyPro Nigeria [Here](https://www.propertypro.ng/)
+
+## Overview & Findings
+
+
 
